@@ -1,1 +1,1 @@
-web: ts-node uniswap.ts
+web: npm start
