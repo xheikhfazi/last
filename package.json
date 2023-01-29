@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node uniswap.ts",
-    "build": "tsc"
+    "start": "npx nodemon uniswap.ts"
   },
   "author": "",
   "license": "ISC",
