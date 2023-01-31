@@ -9,7 +9,6 @@
     "preinstall": "npm i typescript -g && npm i ts-node -g",
     "tsc": "./node_modules/typescript/bin/tsc",
     "postinstall": "npm run tsc",
-    "build": "tsc"
   },
   "author": "",
   "license": "ISC",
