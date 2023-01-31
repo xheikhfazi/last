@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node uniswap.ts",
-    "build": "tsc -p tsconfig.json"
+    "start": "ts-node uniswap.ts"
   },
   "tsc": "./node_modules/typescript/bin/tsc",
   "build": "tsc",
